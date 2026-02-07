@@ -18,7 +18,7 @@ Dynamic pricing is widely used in industries such as e-commerce, airlines, ride-
 
 
 ##  Project Structure
-
+```text
 Dynamic_Pricing_AI/
 │
 ├── docs/
@@ -39,6 +39,7 @@ Dynamic_Pricing_AI/
 ├── revenue_history.npy 
 ├── requirements.txt 
 └── README.md
+```
 
 
 ## System Architecture
